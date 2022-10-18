@@ -1,0 +1,59 @@
+body{
+background-color: cadetblue;
+}
+.main{
+display: flex;
+justify-content: center;
+margin-top: 40px;
+}
+.main img{
+width: 500px;
+height: 800px;
+}
+
+
+.title{
+width: 500px;
+height:780px;
+background-color: rgb(1, 64, 88);
+padding: 12px 16px;
+margin-right: 50px;
+}
+h5{
+color:green;
+font-size: 20px;
+}
+.title input{
+padding: 8px;
+}
+.box{
+background-color: darkcyan;
+color: antiquewhite;
+}
+button {
+width: 200px;
+height: 40px;
+border: 2px none;
+color: white;
+background-color: aquamarine;
+}
+.title h1,h5{
+text-align:   center;
+}
+label{
+color:antiquewhite;
+}
+.title h1{
+color: antiquewhite;
+}
+p{
+color: antiquewhite;
+}
+form{
+margin-left: 40px;
+color: antiquewhite;
+}
+input{
+    border: 1px solid white;
+background-color:rgb(1, 64, 88);
+}
